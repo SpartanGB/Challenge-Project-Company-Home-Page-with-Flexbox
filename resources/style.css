@@ -171,7 +171,7 @@ body {
 
 .contact-us:not(h2) {
     display: inline-flex;
-    background-image: url(Challenge-Project-Company-Home-Page-with-Flexbox/resources/images
+    background-image: url(/Challenge-Project-Company-Home-Page-with-Flexbox/resources/images
 /Screenshot_2.png);
     background-position: center;
     flex-wrap: wrap;
